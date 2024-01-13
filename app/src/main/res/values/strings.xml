@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">layout2</string>
+    <string name="todo0">TODO</string>
+    <string name="hello_abhishek">Hello Abhishek</string>
+    <string name="goodmorning">Goodmorning</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="you_are_almost_done">You are almost done!</string>
+    <string name="wed">Wed</string>
+    <string name="t01">TODO</string>
+    <string name="runningd">Running</string>
+    <string name="dfd">TextView</string>
+    <string name="dfddfd">TODO</string>
+    <string name="dfdfd">Bicycle</string>
+    <string name="dfdfdfd">07.00 for 07km</string>
+    <string name="fdfdfddd">TextView</string>
+    <string name="w2">TODO</string>
+    <string name="swim">Swim</string>
+    <string name="yoga">Yoga</string>
+    <string name="_06_00_to_07_00">06.00 to 07.00</string>
+    <string name="o3">TODO</string>
+    <string name="k4">TODO</string>
+    <string name="l9">TODO</string>
+    <string name="g66">TODO</string>
+    <string name="gg6">TODO</string>
+</resources>
